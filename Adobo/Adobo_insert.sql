@@ -3,21 +3,21 @@ USE adobo_data;
 
 -- STUDENT Data
 
--- INSERT INTO STUDENT 
--- VALUES (01, 'Taoreed Olawale', 20 , 'Student');
+INSERT INTO STUDENT 
+VALUES (01, 'Taoreed Olawale', 20 , 'Student');
 
--- INSERT INTO STUDENT 
--- VALUES (04, 'Olawale Kolawole', 12 , 'Student');
+INSERT INTO STUDENT 
+VALUES (04, 'Olawale Kolawole', 12 , 'Student');
 
--- INSERT INTO STUDENT 
--- VALUES (08, 'Abigirl Oyinlola', 15 ,'Student');
+INSERT INTO STUDENT 
+VALUES (08, 'Abigirl Oyinlola', 15 ,'Student');
 
--- INSERT INTO STUDENT 
--- VALUES (20, 'Alade Oyin', 11 , 'Student');
+INSERT INTO STUDENT 
+VALUES (20, 'Alade Oyin', 11 , 'Student');
 
--- INSERT INTO STUDENT 
--- VALUES (05, 'Afred Olawale', 14 ,  'Student');
---     
+INSERT INTO STUDENT 
+VALUES (05, 'Afred Olawale', 14 ,  'Student');
+    
     
 -- COURSE Data
 
