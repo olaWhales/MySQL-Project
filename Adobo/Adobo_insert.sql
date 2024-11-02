@@ -17,7 +17,7 @@ USE adobo_data;
 
 -- INSERT INTO STUDENT 
 -- VALUES (05, 'Afred Olawale', 14 ,  'Student');
-    
+--     
     
 -- COURSE Data
 
